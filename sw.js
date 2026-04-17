@@ -1,4 +1,4 @@
-const CACHE_NAME = 'grand-royale-v6';
+const CACHE_NAME = 'grand-royale-v7';
 const BASE = '/grand-royale-casino/';
 const ASSETS = [
   BASE,
