@@ -1,0 +1,62 @@
+{
+  "id": "com.grandroyale.casino",
+  "name": "Grand Royale - Casino Games",
+  "short_name": "Grand Royale",
+  "description": "25 casino games — Blackjack, Slots, Roulette, Poker & more. Play free offline!",
+  "start_url": "/grand-royale-casino/",
+  "scope": "/grand-royale-casino/",
+  "display": "standalone",
+  "background_color": "#0a0e27",
+  "theme_color": "#d4af37",
+  "orientation": "portrait-primary",
+  "screenshots": [
+    {
+      "src": "screenshots/screenshot-lobby.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Grand Royale Casino Lobby — 25 Games"
+    },
+    {
+      "src": "screenshots/screenshot-blackjack.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Blackjack — Real Casino Rules"
+    },
+    {
+      "src": "screenshots/screenshot-slots.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Slots — 7 Machines with Jackpots"
+    },
+    {
+      "src": "screenshots/screenshot-vip.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "VIP Tiers & Achievements"
+    },
+    {
+      "src": "screenshots/screenshot-tables.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Plinko, Roulette & Table Games"
+    }
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
