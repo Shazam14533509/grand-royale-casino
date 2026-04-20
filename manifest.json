@@ -12,35 +12,35 @@
   "screenshots": [
     {
       "src": "screenshots/screenshot-lobby.png",
-      "sizes": "1080x1920",
+      "sizes": "720x1260",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Grand Royale Casino Lobby — 25 Games"
     },
     {
       "src": "screenshots/screenshot-blackjack.png",
-      "sizes": "1080x1920",
+      "sizes": "720x1260",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Blackjack — Real Casino Rules"
     },
     {
       "src": "screenshots/screenshot-slots.png",
-      "sizes": "1080x1920",
+      "sizes": "720x1260",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Slots — 7 Machines with Jackpots"
     },
     {
       "src": "screenshots/screenshot-vip.png",
-      "sizes": "1080x1920",
+      "sizes": "720x1260",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "VIP Tiers & Achievements"
     },
     {
       "src": "screenshots/screenshot-tables.png",
-      "sizes": "1080x1920",
+      "sizes": "720x1260",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Plinko, Roulette & Table Games"
